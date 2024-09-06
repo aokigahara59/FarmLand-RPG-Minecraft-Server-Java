@@ -1,0 +1,11 @@
+name: FarmLandRpg
+version: '1.0'
+main: me.aokigahara.farmlandrpg.FarmLandRpg
+api-version: '1.20'
+commands:
+  qtc:
+    usage: "aa"
+  getblaster:
+    description: "Gives a blaster to the player."
+  opbuilding:
+    usage: "no usefe"

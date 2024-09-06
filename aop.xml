@@ -1,0 +1,5 @@
+<aspectj>
+    <aspects>
+        <aspect name="me.aokigahara.farmlandrpg.application.utils.annotations.EventCancellationAspect"/>
+    </aspects>
+</aspectj>
